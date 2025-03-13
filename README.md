@@ -6,7 +6,8 @@ Hi! I'm Sara, a Computer Science student at Università di Parma. I've just star
 - 🎓 Computer Science student at Università di Parma.
 - 📚 Currently studying:
   - Software Engineering
-  - Computer Networks
+  - Parallel Programming and HPC
+  - LSA and NLTK 
 - 💡 Passionate about technology, programming, and problem-solving.
 
 ## 🌱 What I’m Learning
